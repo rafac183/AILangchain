@@ -1,4 +1,4 @@
-- Crea un entorno virtual de Python e instala Gradio utilizando los siguientes comandos en la terminal:
+- Crea un entorno virtual de Python e instala Gradio (framework de código abierto de Python que facilita la creación de interfaces rápidas como chatbots) utilizando los siguientes comandos en la terminal:
 ```
 pip3 install virtualenv 
 virtualenv my_env # create a virtual environment my_env
