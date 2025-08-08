@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI With Langchain made by me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de AI With Langchain made by me"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -131,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI With Langchain made by me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de AI With Langchain made by me"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -160,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI With Langchain made by me.md",
+                "file": "Sin Titulo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de AI With Langchain made by me"
+              "title": "Esquema de Sin Titulo"
             }
           }
         ]
@@ -186,9 +184,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cf6d2fe11024cf4d",
+  "active": "f90e380eec959d62",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "AI With Langchain made by me.md"
+    "AI With Langchain made by me.md",
+    "Sin Titulo.md",
+    "Bienvenido.md"
   ]
 }
